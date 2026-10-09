@@ -66,8 +66,8 @@ More than just a news feeder, AzTech serves as an **AI content copilot for tech 
 
 ```bash
 # Clone the repository
-git clone https://github.com/uahadov/aztech.git
-cd aztech
+git clone https://github.com/uahadov/ai-tech-news-aggregator.git
+cd ai-tech-news-aggregator
 
 # Create and activate a virtual environment
 python -m venv venv
